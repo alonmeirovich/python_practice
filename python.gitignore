@@ -1,0 +1,15 @@
+# Virtual Environments
+.venv/
+venv/
+env/
+
+# Python Cache (Compiled files)
+__pycache__/
+*.py[cod]
+
+# Secret files (if you use them)
+.env
+
+# MacOS/Windows junk
+.DS_Store
+Thumbs.db
